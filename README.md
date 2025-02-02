@@ -39,8 +39,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Email](https://img.shields.io/badge/Email-Send_Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-bagate-97871b296/)
+[![Email](https://img.shields.io/badge/Email-Send_Email-red?style=for-the-badge&logo=gmail&logoColor=white)](sumitbagate3@gmail.com)
 
 ---
 
