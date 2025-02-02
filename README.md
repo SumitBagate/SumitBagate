@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sumit Bagate]!
+# 👋 Hi, I'm  Sumit Bagate
 
 🎯 **Backend Developer in the Making**  
 💻 **Exploring Frontend and Backend Technologies**  
