@@ -33,7 +33,7 @@
 ---
 
 ## 🌟 Projects
-- 🖥️ [Portfolio Website]([https://yourportfolio.com](https://portfolio-six-azure-60.vercel.app))  
+- 🖥️ [Portfolio Website](https://portfolio-six-azure-60.vercel.app)  
 - 📚 [Learning React](https://github.com/yourusername/learning-react)  
 
 ---
